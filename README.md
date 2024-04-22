@@ -1,2 +1,2 @@
-# word_counter
+# word_Counter
 My CLI word counter...
